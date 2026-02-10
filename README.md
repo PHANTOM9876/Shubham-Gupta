@@ -1,6 +1,4 @@
 
-(https://github.com/user-attachments/files/25203233/index.html)
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
